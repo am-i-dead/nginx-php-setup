@@ -1,4 +1,5 @@
 #!/usr/bin/bash bash
+#version 0.0.1
 
 yum install -y nginx
 systemctl enable nginx.service
